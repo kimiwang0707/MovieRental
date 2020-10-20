@@ -1,0 +1,34 @@
+E:\Whitireia\IT\Testing and Secure Coding\MovieRental\MovieRental\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Whitireia\IT\Testing and Secure Coding\MovieRental\MovieRental\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Whitireia\IT\Testing and Secure Coding\MovieRental\MovieRental\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Whitireia\IT\Testing and Secure Coding\MovieRental\MovieRental\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.deps.json
+E:\Whitireia\IT\Testing and Secure Coding\MovieRental\MovieRental\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.runtimeconfig.json
+E:\Whitireia\IT\Testing and Secure Coding\MovieRental\MovieRental\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.runtimeconfig.dev.json
+E:\Whitireia\IT\Testing and Secure Coding\MovieRental\MovieRental\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.dll
+E:\Whitireia\IT\Testing and Secure Coding\MovieRental\MovieRental\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.pdb
+E:\Whitireia\IT\Testing and Secure Coding\MovieRental\MovieRental\UnitTestProject1\bin\Debug\netcoreapp2.1\MovieRental.dll
+E:\Whitireia\IT\Testing and Secure Coding\MovieRental\MovieRental\UnitTestProject1\bin\Debug\netcoreapp2.1\MovieRental.pdb
+E:\Whitireia\IT\Testing and Secure Coding\MovieRental\MovieRental\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csprojAssemblyReference.cache
+E:\Whitireia\IT\Testing and Secure Coding\MovieRental\MovieRental\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csproj.CoreCompileInputs.cache
+E:\Whitireia\IT\Testing and Secure Coding\MovieRental\MovieRental\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.AssemblyInfoInputs.cache
+E:\Whitireia\IT\Testing and Secure Coding\MovieRental\MovieRental\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.AssemblyInfo.cs
+E:\Whitireia\IT\Testing and Secure Coding\MovieRental\MovieRental\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csproj.CopyComplete
+E:\Whitireia\IT\Testing and Secure Coding\MovieRental\MovieRental\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.dll
+E:\Whitireia\IT\Testing and Secure Coding\MovieRental\MovieRental\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.pdb
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\MovieRental\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\MovieRental\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\MovieRental\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\MovieRental\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.deps.json
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\MovieRental\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.runtimeconfig.json
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\MovieRental\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.runtimeconfig.dev.json
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\MovieRental\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.dll
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\MovieRental\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.pdb
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\MovieRental\UnitTestProject1\bin\Debug\netcoreapp2.1\MovieRental.dll
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\MovieRental\UnitTestProject1\bin\Debug\netcoreapp2.1\MovieRental.pdb
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\MovieRental\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csprojAssemblyReference.cache
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\MovieRental\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\MovieRental\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.AssemblyInfoInputs.cache
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\MovieRental\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.AssemblyInfo.cs
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\MovieRental\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csproj.CopyComplete
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\MovieRental\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.dll
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\MovieRental\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.pdb

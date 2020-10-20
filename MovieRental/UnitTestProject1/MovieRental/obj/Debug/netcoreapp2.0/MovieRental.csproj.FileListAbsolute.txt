@@ -1,0 +1,49 @@
+C:\Users\qoobc\source\repos\MovieRental\MovieRental\bin\Debug\netcoreapp2.0\MovieRental.deps.json
+C:\Users\qoobc\source\repos\MovieRental\MovieRental\bin\Debug\netcoreapp2.0\MovieRental.runtimeconfig.json
+C:\Users\qoobc\source\repos\MovieRental\MovieRental\bin\Debug\netcoreapp2.0\MovieRental.runtimeconfig.dev.json
+C:\Users\qoobc\source\repos\MovieRental\MovieRental\bin\Debug\netcoreapp2.0\MovieRental.dll
+C:\Users\qoobc\source\repos\MovieRental\MovieRental\bin\Debug\netcoreapp2.0\MovieRental.pdb
+C:\Users\qoobc\source\repos\MovieRental\MovieRental\obj\Debug\netcoreapp2.0\MovieRental.csprojAssemblyReference.cache
+C:\Users\qoobc\source\repos\MovieRental\MovieRental\obj\Debug\netcoreapp2.0\MovieRental.csproj.CoreCompileInputs.cache
+C:\Users\qoobc\source\repos\MovieRental\MovieRental\obj\Debug\netcoreapp2.0\MovieRental.AssemblyInfoInputs.cache
+C:\Users\qoobc\source\repos\MovieRental\MovieRental\obj\Debug\netcoreapp2.0\MovieRental.AssemblyInfo.cs
+C:\Users\qoobc\source\repos\MovieRental\MovieRental\obj\Debug\netcoreapp2.0\MovieRental.dll
+C:\Users\qoobc\source\repos\MovieRental\MovieRental\obj\Debug\netcoreapp2.0\MovieRental.pdb
+E:\Whitireia\IT\Testing and Secure Coding\MovieRental\MovieRental\MovieRental\bin\Debug\netcoreapp2.0\MovieRental.deps.json
+E:\Whitireia\IT\Testing and Secure Coding\MovieRental\MovieRental\MovieRental\bin\Debug\netcoreapp2.0\MovieRental.runtimeconfig.json
+E:\Whitireia\IT\Testing and Secure Coding\MovieRental\MovieRental\MovieRental\bin\Debug\netcoreapp2.0\MovieRental.runtimeconfig.dev.json
+E:\Whitireia\IT\Testing and Secure Coding\MovieRental\MovieRental\MovieRental\bin\Debug\netcoreapp2.0\MovieRental.dll
+E:\Whitireia\IT\Testing and Secure Coding\MovieRental\MovieRental\MovieRental\bin\Debug\netcoreapp2.0\MovieRental.pdb
+E:\Whitireia\IT\Testing and Secure Coding\MovieRental\MovieRental\MovieRental\obj\Debug\netcoreapp2.0\MovieRental.csprojAssemblyReference.cache
+E:\Whitireia\IT\Testing and Secure Coding\MovieRental\MovieRental\MovieRental\obj\Debug\netcoreapp2.0\MovieRental.csproj.CoreCompileInputs.cache
+E:\Whitireia\IT\Testing and Secure Coding\MovieRental\MovieRental\MovieRental\obj\Debug\netcoreapp2.0\MovieRental.AssemblyInfoInputs.cache
+E:\Whitireia\IT\Testing and Secure Coding\MovieRental\MovieRental\MovieRental\obj\Debug\netcoreapp2.0\MovieRental.AssemblyInfo.cs
+E:\Whitireia\IT\Testing and Secure Coding\MovieRental\MovieRental\MovieRental\obj\Debug\netcoreapp2.0\MovieRental.dll
+E:\Whitireia\IT\Testing and Secure Coding\MovieRental\MovieRental\MovieRental\obj\Debug\netcoreapp2.0\MovieRental.pdb
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\MovieRental\MovieRental\bin\Debug\netcoreapp2.0\MovieRental.deps.json
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\MovieRental\MovieRental\bin\Debug\netcoreapp2.0\MovieRental.runtimeconfig.json
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\MovieRental\MovieRental\bin\Debug\netcoreapp2.0\MovieRental.runtimeconfig.dev.json
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\MovieRental\MovieRental\bin\Debug\netcoreapp2.0\MovieRental.dll
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\MovieRental\MovieRental\bin\Debug\netcoreapp2.0\MovieRental.pdb
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\MovieRental\MovieRental\obj\Debug\netcoreapp2.0\MovieRental.csprojAssemblyReference.cache
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\MovieRental\MovieRental\obj\Debug\netcoreapp2.0\MovieRental.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\MovieRental\MovieRental\obj\Debug\netcoreapp2.0\MovieRental.AssemblyInfoInputs.cache
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\MovieRental\MovieRental\obj\Debug\netcoreapp2.0\MovieRental.AssemblyInfo.cs
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\MovieRental\MovieRental\obj\Debug\netcoreapp2.0\MovieRental.dll
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\MovieRental\MovieRental\obj\Debug\netcoreapp2.0\MovieRental.pdb
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\MovieRental\bin\Debug\netcoreapp2.0\MovieRental.deps.json
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\MovieRental\bin\Debug\netcoreapp2.0\MovieRental.runtimeconfig.json
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\MovieRental\bin\Debug\netcoreapp2.0\MovieRental.runtimeconfig.dev.json
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\MovieRental\bin\Debug\netcoreapp2.0\MovieRental.dll
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\MovieRental\bin\Debug\netcoreapp2.0\MovieRental.pdb
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\MovieRental\obj\Debug\netcoreapp2.0\MovieRental.csprojAssemblyReference.cache
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\MovieRental\obj\Debug\netcoreapp2.0\MovieRental.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\MovieRental\obj\Debug\netcoreapp2.0\MovieRental.AssemblyInfoInputs.cache
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\MovieRental\obj\Debug\netcoreapp2.0\MovieRental.AssemblyInfo.cs
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\MovieRental\obj\Debug\netcoreapp2.0\MovieRental.dll
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\MovieRental\obj\Debug\netcoreapp2.0\MovieRental.pdb
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\MovieRental\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\MovieRental\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\MovieRental\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\MovieRental\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\MovieRental\obj\Debug\netcoreapp2.0\MovieRental.genruntimeconfig.cache

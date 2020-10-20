@@ -1,0 +1,16 @@
+C:\Users\HUAWEI\Desktop\MovieRental\MovieRentalPerformanceTest\MovieRentalPerformanceTest\bin\Debug\MovieRentalPerformanceTest.dll
+C:\Users\HUAWEI\Desktop\MovieRental\MovieRentalPerformanceTest\MovieRentalPerformanceTest\bin\Debug\MovieRentalPerformanceTest.pdb
+C:\Users\HUAWEI\Desktop\MovieRental\MovieRentalPerformanceTest\MovieRentalPerformanceTest\bin\Debug\Microsoft.VisualStudio.QualityTools.WebTestFramework.dll
+C:\Users\HUAWEI\Desktop\MovieRental\MovieRentalPerformanceTest\MovieRentalPerformanceTest\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.WebTestFramework.resources.dll
+C:\Users\HUAWEI\Desktop\MovieRental\MovieRentalPerformanceTest\MovieRentalPerformanceTest\obj\Debug\MovieRentalPerformanceTest.csprojAssemblyReference.cache
+C:\Users\HUAWEI\Desktop\MovieRental\MovieRentalPerformanceTest\MovieRentalPerformanceTest\obj\Debug\MovieRentalPerformanceTest.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\Desktop\MovieRental\MovieRentalPerformanceTest\MovieRentalPerformanceTest\obj\Debug\MovieRentalPerformanceTest.csproj.CopyComplete
+C:\Users\HUAWEI\Desktop\MovieRental\MovieRentalPerformanceTest\MovieRentalPerformanceTest\obj\Debug\MovieRentalPerformanceTest.dll
+C:\Users\HUAWEI\Desktop\MovieRental\MovieRentalPerformanceTest\MovieRentalPerformanceTest\obj\Debug\MovieRentalPerformanceTest.pdb
+C:\Users\HUAWEI\Desktop\MovieRental\MovieRentalPerformanceTest\MovieRentalPerformanceTest\bin\Debug\Customers.webtest
+C:\Users\HUAWEI\Desktop\MovieRental\MovieRentalPerformanceTest\MovieRentalPerformanceTest\bin\Debug\Directors.webtest
+C:\Users\HUAWEI\Desktop\MovieRental\MovieRentalPerformanceTest\MovieRentalPerformanceTest\bin\Debug\Movies.webtest
+C:\Users\HUAWEI\Desktop\MovieRental\MovieRentalPerformanceTest\MovieRentalPerformanceTest\bin\Debug\LoadTest1.loadtest
+C:\Users\HUAWEI\Desktop\MovieRental\MovieRentalPerformanceTest\MovieRentalPerformanceTest\bin\Debug\LoadTest2.loadtest
+C:\Users\HUAWEI\Desktop\MovieRental\MovieRentalPerformanceTest\MovieRentalPerformanceTest\bin\Debug\LoadTest3.loadtest
+C:\Users\HUAWEI\Desktop\MovieRental\MovieRentalPerformanceTest\MovieRentalPerformanceTest\bin\Debug\LoadTest4.loadtest

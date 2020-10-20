@@ -1,0 +1,12 @@
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental-Eddie\MovieRental\CodedUITestMovieRental\CodedUITestMovieRental\bin\Debug\CodedUITestMovieRental.dll
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental-Eddie\MovieRental\CodedUITestMovieRental\CodedUITestMovieRental\bin\Debug\CodedUITestMovieRental.pdb
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental-Eddie\MovieRental\CodedUITestMovieRental\CodedUITestMovieRental\obj\Debug\CodedUITestMovieRental.csprojAssemblyReference.cache
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental-Eddie\MovieRental\CodedUITestMovieRental\CodedUITestMovieRental\obj\Debug\CodedUITestMovieRental.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental-Eddie\MovieRental\CodedUITestMovieRental\CodedUITestMovieRental\obj\Debug\CodedUITestMovieRental.dll
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental-Eddie\MovieRental\CodedUITestMovieRental\CodedUITestMovieRental\obj\Debug\CodedUITestMovieRental.pdb
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\CodedUITest_MovieRental\CodedUITestMovieRental\bin\Debug\CodedUITestMovieRental.dll
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\CodedUITest_MovieRental\CodedUITestMovieRental\bin\Debug\CodedUITestMovieRental.pdb
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\CodedUITest_MovieRental\CodedUITestMovieRental\obj\Debug\CodedUITestMovieRental.csprojAssemblyReference.cache
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\CodedUITest_MovieRental\CodedUITestMovieRental\obj\Debug\CodedUITestMovieRental.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\CodedUITest_MovieRental\CodedUITestMovieRental\obj\Debug\CodedUITestMovieRental.dll
+C:\Users\HUAWEI\Desktop\MovieRental-Final\MovieRental\CodedUITest_MovieRental\CodedUITestMovieRental\obj\Debug\CodedUITestMovieRental.pdb
